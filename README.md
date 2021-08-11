@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working @ <a href="http://www.webnetiz.com/">WEBNETIZ_SOLUTIONS</a> and contributing to various open -sources
 - 🌱 I’m currently learning THREE.Js,SPARK,ANDROID&IOS DEV
-- 👯 I’m looking to collaborate on ANYTHING!!!
+- 👯 I’m looking for JOB and even to collaborate on ANYTHING!!!
 - 🤔 I’m looking for help with ALL MOST EVERYTHING😂😂
