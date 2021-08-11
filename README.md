@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hey, Syed Aasim <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center"> 🚀 Software Engineer • Open Source Enthusiast </h2>
+<h2 align="center"> 🚀 Software Engineer • Front-end dev • Open Source Enthusiast </h2>
 
 
 <!--**aasim-syed/aasim-syed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
